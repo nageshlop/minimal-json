@@ -6,7 +6,3 @@ jobs:
     - jdk: oraclejdk11
     - arch: ppc64le
       jdk: openjdk8
-  exclude:
-  - arch: ppc64le
-    jdk: 
-      - oraclejdk11
